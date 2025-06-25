@@ -164,7 +164,6 @@ kind,ADJECTIVE,IND,description,neutral,animate,animate
 sweet,ADJECTIVE,WEET,description,nature,inanimate,inanimate
 bitter,ADJECTIVE,ITTER,description,destruction,inanimate,inanimate
 sour,ADJECTIVE,OUR,description,destruction,inanimate,inanimate
-spicy,ADJECTIVE,ICY,description,neutral,inanimate,inanimate
 hot,ADJECTIVE,OT,description,destruction,inanimate,inanimate
 cold,ADJECTIVE,OLD,description,nature,inanimate,inanimate
 warm,ADJECTIVE,ARM,description,nature,inanimate,inanimate

@@ -627,4 +627,10 @@ def filter_words_by_animacy(words, main_categories, pos, sentence_animacy, categ
 if __name__ == "__main__":
     words = load_words("words2.txt")
     poem = generate_poem(words)
+    
+    # Write the poem to output.txt
+    with open("output.txt", "w") as f:
+        f.write(poem)
+    
+    print("Poem generated and saved to output.txt:")
     print(poem)
